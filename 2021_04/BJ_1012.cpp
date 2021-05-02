@@ -27,6 +27,7 @@ void solution(int x, int y, int m, int n) {
 }
 
 int main() {
+	
 	ios_base::sync_with_stdio(false);
 	cin.tie(NULL);
 
